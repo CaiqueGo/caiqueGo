@@ -28,7 +28,7 @@
 ### 🚀 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,js,ts,java,py,bash,html,css" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github, linux" /><br/>
+  <img src="https://skillicons.dev/icons?i=go,php,js,ts,java,py,bash" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,gitlab,linux" /><br/>
   <img src="https://skillicons.dev/icons?i=laravel,express,angular,bootstrap,jquery,fastapi" />
 </p>
