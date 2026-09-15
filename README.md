@@ -21,7 +21,6 @@
 - 🛠️ I have 10+ years of experience building **distributed backend systems**, microservices, event-driven architectures, and payment/fintech platforms.
 - 🌎 Based in São Paulo, Brazil.
 - 🎮 Big fan of video games.
-- 🌐 Fluent in Portuguese and English.
 
 <br/>
 
